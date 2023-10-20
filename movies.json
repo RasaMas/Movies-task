@@ -1,0 +1,138 @@
+[
+    {
+      "movieName": "The Covenant",
+      "ratings": {
+        "rate": 7.6,
+        "rated": 22000
+      },
+      "releaseDate": 2023,
+      "aboutMovie": "During the war in Afghanistan, a local interpreter risks his own life to carry an injured sergeant across miles of grueling terrain.",
+      "genres": ["Action", "Thriller", "war"],
+      "producers": ["Guy Ritchie"],
+      "actors": ["Guy Ritchie", "Ivan Atkinson", "Marn Davies"]
+    },
+    
+    {
+      "movieName": "A Walk to Remember",
+      "ratings": {
+        "rate": 7.3,
+        "rated": 21000
+      },
+      "releaseDate": 2002,
+      "aboutMovie": "Two North Carolina teens, Landon Carter and Jamie Sullivan, are thrown together after Landon gets into trouble and is sentenced to perform community service.",
+      "genres": ["Drama", "Romance"],
+      "producers": ["Adam Shankman"],
+      "actors": ["Mandy Moore", "Shane West", "Peter Coyote"]
+    },
+  
+    {
+      "movieName": "Undisputed III: Redemption",
+      "ratings": {
+        "rate": 7.3,
+        "rated": 44000
+      },
+  
+      "releaseDate": 2010,
+      "aboutMovie": "Boyka is back. This time he is fighting in the first ever inter-prison tournament with one knee.",
+      "genres": ["Action", "Crime", "Drama"],
+      "producers": ["Issac Florentine"],
+      "actors": ["Mykel Shannon Jenkins", "Scott Adkins", "Mark Ivanir"]
+    },
+  
+    {
+      "movieName": "Spellbound",
+      "ratings": {
+        "rate": 6.8,
+        "rated": 3600
+      },
+  
+      "releaseDate": 2011,
+      "aboutMovie": "A magician meets an eccentric girl and offers her to work together in his magic show. It is only until a year later that he starts to know her personally and develops a feeling towards her despite her own problems.",
+      "genres": ["Comedy", "Fantasy", "Horror", "Romance"],
+      "producers": ["Lee Won-tae"],
+      "actors": ["Marlon Brando", "Al Pacino", "Jemes Caan"]
+    },
+  
+    {
+      "movieName": "How the Grinch Stole Christmas",
+      "ratings": {
+        "rate": 6.3,
+        "rated": 273000
+      },
+  
+      "releaseDate": 2000,
+      "aboutMovie": "On the outskirts of Whoville lives a green, revenge-seeking Grinch who plans to ruin Christmas for all of the citizens of the town.",
+      "genres": ["Comedy", "Family", "Fantasy"],
+      "producers": ["Brian Grazer", "Ron Howard"],
+      "actors": ["Jim Carrey", "Taylor Momsen", "Kelley"]
+    },
+  
+    {
+      "movieName": "A Bug's Life",
+      "ratings": {
+        "rate": 7.2,
+        "rated": 307000
+      },
+  
+      "releaseDate": 1998,
+      "aboutMovie": "A misfit ant, looking for 'warriors' to save his colony from greedy grasshoppers, recruits a group of bugs that turn out to be an inept circus troupe.",
+      "genres": ["Animation", "Adventure", "Comedy"],
+      "producers": ["Darla K. Anderson"],
+      "actors": ["Kevin Spacey", "David Foley", "Julia Louis-Dreyfus"]
+    },
+  
+    {
+      "movieName": "Casper",
+      "ratings": {
+        "rate": 6.1,
+        "rated": 143000
+      },
+  
+      "releaseDate": 1995,
+      "aboutMovie": "An afterlife therapist and his daughter meet a friendly young ghost when they move into a crumbling mansion in order to rid the premises of wicked spirits.",
+      "genres": ["Comedy", "Family", "Fantasy"],
+      "producers": ["Colin Wilson"],
+      "actors": ["Bill Pullman", "Christina Ricci", "Cathy Moriarty"]
+    },
+  
+    {
+      "movieName": "Stalked by my doctor: Patient's Revenge",
+      "ratings": {
+        "rate": 5.4,
+        "rated": 653
+      },
+  
+      "releaseDate": 2018,
+      "aboutMovie": "After being found not guilty for his crimes, Dr. Albert Beck takes a teaching job at a university, where his blossoming relationship with a student is threatened when one of his previous victims begins a campaign of terror against him.",
+      "genres": ["Thriller"],
+      "producers": ["Ken Sanders"],
+      "actors": ["Eric Robers", "Anna Marie Dobbins", "Brianna Joy Chromer"]
+    },
+  
+    {
+      "movieName": "Winnie the Pooh: Blood and Honey",
+      "ratings": {
+        "rate": 2.9,
+        "rated": 22000
+      },
+
+      "releaseDate": 2023,
+      "aboutMovie": "After Christopher Robin abandons them for college, Pooh and Piglet embark on a bloody rampage as they search for a new source of food.",
+      "genres": ["Horror"],
+      "producers": ["Rhys Frake-Waterfield"],
+      "actors": ["Nikolai Leon", "Maria Taylor", "Natasha Rose Mills"]
+    },
+  
+    {
+      "movieName": "My Friend Dahmer",
+      "ratings": {
+        "rate": 6.22,
+        "rated": 23000
+      },
+      "releaseDate": 2017,
+      "aboutMovie": "A young Jeffrey Dahmer struggles to belong in high school.",
+      "genres": ["Biography", "Drama", "Horror"],
+      "producers": ["Jody Girgenti", "Marc Meyers", "Adam Goldworm", "Michael Merlob", "Milan Chakrabooty"],
+      "actors": ["Ross Lynch", "Alex Wolff", "Anne Heche"]
+    }
+  ]
